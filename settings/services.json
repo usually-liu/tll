@@ -1,0 +1,19 @@
+{
+	"game": {
+		"name": "弹溜溜",
+		"appid": "676683321",
+		"cid": "0"
+	},
+	"configs": [
+		{
+			"appid": "676683321",
+			"services": [
+				{
+					"service_id": "241",
+					"enable": true
+				}
+			]
+		}
+	],
+	"needExecNative": true
+}
